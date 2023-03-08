@@ -13,7 +13,7 @@
   
   a {
     text-decoration: none;
-    color: inherit;
+    color: white;
   }
   
   ul {
@@ -40,7 +40,7 @@
     justify-content: space-between;
     align-items: center;
     padding: 1rem;
-    padding-left: 60%;
+   
   }
   #background-video {
     width: 100vw;
@@ -78,30 +78,7 @@
     font-size: 2rem;
   }
   
-  nav ul {
-    display: flex;
-    margin-left: 0px;
-  }
   
-  nav li {
-    margin-left: 3rem;
-  }
-  
-  nav a {
-    padding: 0.5rem;
-    border-radius: 3px;
-     
-  }
-  
-nav a:active{
-    text-decoration: underline;
-}
-
-  nav a:hover {
-    text-decoration: underline;
-     
-    
-  }
   
   /* Main Styles */
   main {
