@@ -38,6 +38,7 @@
     cursor: pointer;
      
   }
+   
   /* Header Styles */
   header {
     color: #fff;
@@ -47,9 +48,31 @@
     padding: 1rem;
    
   }
+
+  .container1 {
+    width: 100%;
+    max-width: 960px;
+    margin: 0 auto;
+  }
+  
+  .column1, .column2 {
+    box-sizing: border-box;
+    padding: 0 25px;
+    float: left;
+    width: 50%;
+  }
+  
+  .column1 {
+    background-color: white;
+  }
+  
+  .column2 {
+    background-color: white;
+  }
+  
   #background-video {
-    width: 100vw;
-    height: 1080px;
+    width: 99.1vw;
+    height: auto;
     object-fit:contain;
     position: absolute;
     left: 0;
