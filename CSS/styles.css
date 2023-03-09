@@ -53,15 +53,29 @@
     width: 100%;
     max-width: 960px;
     margin: 0 auto;
+    padding-top: 5%;
+    box-shadow: #ccc;
   }
   
   .column1, .column2 {
     box-sizing: border-box;
-    padding: 0 25px;
     float: left;
     width: 50%;
+    padding: 20px;
+    
   }
-  
+  h3{
+    font-family: poppins;
+    color: #0B0F42;
+    font-weight:500;
+    font-size: 23px;
+  }
+  h4{
+    font-family: poppins;
+    color: #0B0F42;
+    font-weight:300;
+    font-size: 15px;
+  }
   .column1 {
     background-color: white;
   }
