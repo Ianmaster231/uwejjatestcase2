@@ -366,7 +366,7 @@
   
   /* Footer Styles */
   footer {
-    background-color: #333;
+    background-color:#0B0F42;
     color: #fff;
     padding: 1rem;
     text-align: center;
@@ -377,3 +377,5 @@
     font-family: poppins;
     font-weight: 500;
   }
+
+   
